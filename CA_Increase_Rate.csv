@@ -1,4 +1,4 @@
-,State,County,Increase Rate Predicted for The Next 2 Weeks
+,State,County,Increase Rate (for next 2 weeks)
 0,California,Orange,0.24294878183105603
 1,California,Los Angeles,0.20270534378915886
 2,California,Santa Clara,0.1699505751258087
@@ -38,3 +38,21 @@
 36,California,El Dorado,0.40591168091168095
 37,California,Siskiyou,0.4770786516853934
 38,California,Yuba,0.538372513562387
+39,California,Calaveras,0.34279411764705886
+40,California,Merced,0.3278046218487396
+41,California,Mono,0.3921768707482994
+42,California,Inyo,0.24237288135593216
+43,California,Sutter,0.4731101021566401
+44,California,Colusa,0.4284679665738163
+45,California,Kings,0.18330788232652154
+46,California,Glenn,0.20676923076923073
+47,California,Tuolumne,0.22187499999999993
+48,California,Alpine,0.16500000000000004
+49,California,Plumas,0.3340000000000001
+50,California,Del Norte,0.07922222222222217
+51,California,Tehama,0.4114159292035399
+52,California,Lake,0.17048543689320392
+53,California,Mariposa,0.22237288135593228
+54,California,Trinity,0.10333333333333335
+55,California,Sierra,0.16591268001168095
+56,California,Lassen,0.2977215189873417
